@@ -2,12 +2,7 @@
 Hi 👋! I'm Teja Toleti — a Cloud & DevOps Engineer working with Azure production environments.
 </h2>
 
-<img 
-  src="https://raw.githubusercontent.com/kroim/profile-readme-generator/master/src/assets/icons/cloud.svg"
-  height="120"
-  align="right"
-  alt="Cloud Infrastructure"
-/>
+<img src="https://readme-typing-svg.demolab.com?font=Segoe+UI&size=22&duration=3000&pause=800&color=0078D4&left=true&vCenter=true&width=700&lines=Azure+Cloud+%7C+DevOps+%7C+Production+Systems;Hybrid+Infrastructure+%7C+Automation+%7C+Reliability;Cloud+Operations+Engineer+with+Production+Experience" />
 
 <p align="left">
 I design, operate, and support secure, reliable cloud and hybrid infrastructures.

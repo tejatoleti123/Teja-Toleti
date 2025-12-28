@@ -2,6 +2,13 @@
 Hi 👋! I'm Teja Toleti — a Cloud & DevOps Engineer working with Azure production environments.
 </h2>
 
+<img 
+  src="https://raw.githubusercontent.com/kroim/profile-readme-generator/master/src/assets/icons/cloud.svg"
+  height="120"
+  align="right"
+  alt="Cloud Infrastructure"
+/>
+
 <p align="left">
 I design, operate, and support secure, reliable cloud and hybrid infrastructures.
 My day-to-day work focuses on availability, automation, monitoring, and incident response
@@ -31,7 +38,7 @@ for customer-facing systems running in production.
   </tr>
   <tr>
     <td><b>Identity</b></td>
-    <td>Azure Active Directory, Role-Based Access Control</td>
+    <td>Azure Active Directory, RBAC</td>
   </tr>
   <tr>
     <td><b>Networking</b></td>
@@ -39,19 +46,19 @@ for customer-facing systems running in production.
   </tr>
   <tr>
     <td><b>Compute & Hosting</b></td>
-    <td>Azure VMs, Windows Server, IIS Web Applications</td>
+    <td>Azure VMs, Windows Server, IIS</td>
   </tr>
   <tr>
     <td><b>Storage</b></td>
-    <td>Storage Accounts, Azure File Shares, File Sync</td>
+    <td>Azure Storage Accounts, File Shares, File Sync</td>
   </tr>
   <tr>
     <td><b>Automation</b></td>
-    <td>PowerShell (user management, environment refresh, ops tasks)</td>
+    <td>PowerShell (user provisioning, environment refresh)</td>
   </tr>
   <tr>
     <td><b>Monitoring</b></td>
-    <td>Zabbix, alerting and escalation via OpsGenie</td>
+    <td>Zabbix, OpsGenie</td>
   </tr>
   <tr>
     <td><b>Operations</b></td>
@@ -69,7 +76,6 @@ for customer-facing systems running in production.
   <li>Managed IIS-hosted applications including SSL/TLS and Cloudflare integration</li>
   <li>Automated repetitive operational tasks using PowerShell</li>
   <li>Handled incidents, performed root cause analysis, and documented resolutions</li>
-  <li>Worked closely with customers during production issues and change deployments</li>
 </ul>
 
 ---
@@ -85,20 +91,16 @@ Azure • PowerShell • Windows Server • Linux • IIS • Git • SQL • DN
 <h3 align="left">📫 Connect With Me</h3>
 
 <p align="left">
-<a href="https://www.linkedin.com/in/teja-toleti" target="_blank">
-LinkedIn
-</a>
+<a href="https://www.linkedin.com/in/teja-toleti" target="_blank">LinkedIn</a>
 &nbsp;|&nbsp;
-<a href="mailto:your-email@gmail.com">
-Email
-</a>
+<a href="mailto:your-email@gmail.com">Email</a>
 </p>
 
 ---
 
 <p align="left">
 <i>
-“Reliable systems are built through disciplined operations, clear automation,
-and calm incident response.”
+“Reliable cloud systems are built through disciplined operations,
+automation, and calm incident response.”
 </i>
 </p>

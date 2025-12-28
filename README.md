@@ -1,5 +1,5 @@
 <h2 align="left">
-Hi 👋! My name is Teja Toleti and I’m a Cloud & DevOps Engineer working with Azure-based production environments.
+Hi 👋! My name is Teja Toleti and I’m a Cloud Support Engineer working with Azure-based production environments.
 </h2>
 
 <p align="left">

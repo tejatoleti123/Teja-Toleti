@@ -1,101 +1,61 @@
-<h2 align="left">
-Hi 👋! I'm Teja Toleti — a Cloud & DevOps Engineer working with Azure production environments.
-</h2>
+<!-- Languages and Tools Section -->
+<h2 align="left">🛠️ Languages & Tools</h2>
 
-<img src="https://readme-typing-svg.demolab.com?font=Segoe+UI&size=22&duration=3000&pause=800&color=0078D4&left=true&vCenter=true&width=700&lines=Azure+Cloud+%7C+DevOps+%7C+Production+Systems;Hybrid+Infrastructure+%7C+Automation+%7C+Reliability;Cloud+Operations+Engineer+with+Production+Experience" />
-
+<!-- Cloud -->
+<h3 align="left">☁️ Cloud Platforms</h3>
 <p align="left">
-I design, operate, and support secure, reliable cloud and hybrid infrastructures.
-My day-to-day work focuses on availability, automation, monitoring, and incident response
-for customer-facing systems running in production.
+  <a href="https://azure.microsoft.com/" target="_blank" rel="noreferrer">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" width="50" height="50" alt="Azure"/>
+  </a>
+  <a href="https://aws.amazon.com/" target="_blank" rel="noreferrer">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="60" height="50" alt="AWS"/>
+  </a>
+  <a href="https://cloud.google.com/" target="_blank" rel="noreferrer">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" width="50" height="50" alt="GCP"/>
+  </a>
 </p>
 
----
+<!-- Scripting -->
+<h3 align="left">📜 Scripting & Programming</h3>
+<p align="left">
+  <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" width="50" height="50" alt="Bash"/>
+  </a>
+  <a href="https://www.python.org/" target="_blank" rel="noreferrer">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50" height="50" alt="Python"/>
+  </a>
+  <a href="https://go.dev/" target="_blank" rel="noreferrer">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" width="50" height="50" alt="Golang"/>
+  </a>
+  <a href="https://learn.microsoft.com/powershell/" target="_blank" rel="noreferrer">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/powershell/powershell-original.svg" width="50" height="50" alt="PowerShell"/>
+  </a>
+</p>
 
-<h3 align="left">☁️ What I’m Known For</h3>
+<!-- DevOps & Cloud Technologies -->
+<h3 align="left">⚙️ DevOps & Cloud Technologies</h3>
+<p align="left">
+  <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="50" height="50" alt="Docker"/>
+  </a>
+  <a href="https://kubernetes.io/" target="_blank" rel="noreferrer">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" width="50" height="50" alt="Kubernetes"/>
+  </a>
+  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="50" height="50" alt="Git"/>
+  </a>
+  <a href="https://www.linux.org/" target="_blank" rel="noreferrer">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="50" height="50" alt="Linux"/>
+  </a>
+</p>
 
+<!-- Profile Views -->
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=Teja-Toleti&label=Profile%20Views&color=0078D4&style=flat" alt="profile views"/>
+</p>
+
+<!-- Short Summary -->
 <ul>
-  <li>Building and operating Azure-based production environments</li>
-  <li>Supporting hybrid (on-prem ↔ cloud) architectures</li>
-  <li>Automating operational tasks to reduce manual effort and risk</li>
-  <li>Handling incidents with structured troubleshooting and RCA</li>
-  <li>Maintaining clear documentation and operational runbooks</li>
+  <li>Working on Cloud, DevOps, containers, and production infrastructure</li>
+  <li>Interested in collaborating on <b>Cloud-Native</b> and <b>Infrastructure Automation</b> projects</li>
 </ul>
-
----
-
-<h3 align="left">🧠 Cloud & Production Experience</h3>
-
-<table>
-  <tr>
-    <td><b>Cloud Platform</b></td>
-    <td>Microsoft Azure (IaaS & PaaS)</td>
-  </tr>
-  <tr>
-    <td><b>Identity</b></td>
-    <td>Azure Active Directory, RBAC</td>
-  </tr>
-  <tr>
-    <td><b>Networking</b></td>
-    <td>VNets, Subnets, VPN Gateway, ExpressRoute, DNS</td>
-  </tr>
-  <tr>
-    <td><b>Compute & Hosting</b></td>
-    <td>Azure VMs, Windows Server, IIS</td>
-  </tr>
-  <tr>
-    <td><b>Storage</b></td>
-    <td>Azure Storage Accounts, File Shares, File Sync</td>
-  </tr>
-  <tr>
-    <td><b>Automation</b></td>
-    <td>PowerShell (user provisioning, environment refresh)</td>
-  </tr>
-  <tr>
-    <td><b>Monitoring</b></td>
-    <td>Zabbix, OpsGenie</td>
-  </tr>
-  <tr>
-    <td><b>Operations</b></td>
-    <td>24/7 monitoring, incident response, RCA, SOPs</td>
-  </tr>
-</table>
-
----
-
-<h3 align="left">📌 Key Responsibilities & Impact</h3>
-
-<ul>
-  <li>Configured and maintained Azure infrastructure for production and sandbox environments</li>
-  <li>Supported secure on-premises to Azure migrations with minimal downtime</li>
-  <li>Managed IIS-hosted applications including SSL/TLS and Cloudflare integration</li>
-  <li>Automated repetitive operational tasks using PowerShell</li>
-  <li>Handled incidents, performed root cause analysis, and documented resolutions</li>
-</ul>
-
----
-
-<h3 align="left">🛠️ Tools & Technologies</h3>
-
-<p align="left">
-Azure • PowerShell • Windows Server • Linux • IIS • Git • SQL • DNS • VPN • ExpressRoute
-</p>
-
----
-
-<h3 align="left">📫 Connect With Me</h3>
-
-<p align="left">
-<a href="https://www.linkedin.com/in/teja-toleti" target="_blank">LinkedIn</a>
-&nbsp;|&nbsp;
-<a href="mailto:your-email@gmail.com">Email</a>
-</p>
-
----
-
-<p align="left">
-<i>
-“Reliable cloud systems are built through disciplined operations,
-automation, and calm incident response.”
-</i>
-</p>

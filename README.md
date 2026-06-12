@@ -35,16 +35,6 @@ I operate with one core principle:
 
 ---
 
-# 🧠 Engineering Philosophy
-
-- High availability is not optional  
-- Manual processes are technical debt  
-- Observability prevents outages  
-- Version control is non-negotiable  
-- Reliability > Hype  
-
----
-
 # 🛠️ Technical Arsenal
 
 ## ☁️ Cloud

@@ -18,11 +18,6 @@
 
 I am a **Cloud & DevOps Engineer** with 2+ years of production experience designing, migrating, and optimizing workloads across **Microsoft Azure and AWS**.
 
-I operate with one core principle:
-
-> **If it can be automated — automate it.  
-> If it can fail — design for it.  
-> If it’s slow — optimize it.**
 
 ### 🔥 What I Actually Do
 

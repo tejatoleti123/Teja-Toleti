@@ -114,13 +114,6 @@ I operate with one core principle:
 
 ---
 
-# 🏆 Achievements
-
-- 🏅 Colleague of the Quarter (Twice)  
-- 💎 GEM Award – H2 2024  
-- 📢 Conducted internal cloud architecture sessions  
-
----
 
 # 🎯 Current Focus
 

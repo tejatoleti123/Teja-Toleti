@@ -75,7 +75,7 @@ I operate with one core principle:
 
 # 💼 Experience Snapshot
 
-## 🚀 Cloud Support Engineer | Aptean (2025 – Present)
+## 🚀 Cloud Engineer | Aptean (2025 – Present)
 
 - Migrated 20+ workloads to Azure with 99.9% availability  
 - Reduced provisioning effort by ~40% using Terraform  
